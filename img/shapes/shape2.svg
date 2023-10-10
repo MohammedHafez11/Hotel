@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="530px" height="491px" viewBox="0 0 530 491" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bkg oval</title>
+    <defs>
+        <path d="M261.938445,485 C406.603053,485 523.87689,376.429052 523.87689,242.5 C523.87689,108.570948 406.603053,0 261.938445,0 C117.273836,0 0,108.570948 0,242.5 C0,376.429052 117.273836,485 261.938445,485 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2.5" y="-2.5" width="528.87689" height="490">
+            <rect x="-2.5" y="-2.5" width="528.87689" height="490" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M265.648621,439.660057 C382.036012,439.660057 476.386634,352.618758 476.386634,245.247875 C476.386634,137.876992 382.036012,50.8356941 265.648621,50.8356941 C149.261231,50.8356941 54.9106089,137.876992 54.9106089,245.247875 C54.9106089,352.618758 149.261231,439.660057 265.648621,439.660057 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2.5" y="-2.5" width="426.476025" height="393.824363">
+            <rect x="52.4106089" y="48.3356941" width="426.476025" height="393.824363" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <path d="M262.68048,392.946176 C347.921949,392.946176 417.023813,328.664793 417.023813,249.369688 C417.023813,170.074584 347.921949,105.793201 262.68048,105.793201 C177.439011,105.793201 108.337147,170.074584 108.337147,249.369688 C108.337147,328.664793 177.439011,392.946176 262.68048,392.946176 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2.5" y="-2.5" width="313.686666" height="292.152975">
+            <rect x="105.837147" y="103.293201" width="313.686666" height="292.152975" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Partner-Marketplaces" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="4.259999692440033">
+        <g id="Partner-marketplaces-(desktop)" transform="translate(-717.000000, -150.000000)" stroke="#D0D4F1" stroke-width="5">
+            <g id="Bkg-oval" transform="translate(720.123110, 153.000000)">
+                <use id="Oval" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                <use id="Oval" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                <use id="Oval" mask="url(#mask-6)" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>
